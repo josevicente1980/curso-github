@@ -11,3 +11,7 @@ Aprender a controlar versiones, crear commits y trabajar posteriormente con GitH
 - Crear y administrar repositorios.
 - Registrar cambios mediante commits.
 - Sincronizar proyectos con GitHub.
+
+## Cambio desde GitHub
+
+Este texto fue agregado directamente desde el repositorio remoto.
