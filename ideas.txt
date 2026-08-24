@@ -1,0 +1,5 @@
+Ideas para futuras prácticas:
+
+- Crear ramas.
+- Resolver conflictos.
+- Trabajar con proyectos reales.
