@@ -1,0 +1,3 @@
+Apuntes del curso de Git y GitHub.
+
+Hoy estoy practicando cómo separar cambios en diferentes commits.
