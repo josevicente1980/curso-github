@@ -18,7 +18,7 @@ Este texto fue agregado directamente desde el repositorio remoto.
 
 
 
-\## Práctica con PowerShell
+## Practica con powershell
 
 
 
