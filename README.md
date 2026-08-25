@@ -4,7 +4,7 @@ Este repositorio fue creado para aprender Git y GitHub desde cero.
 
 ## Objetivo
 
-Aprender a controlar versiones, crear commits y trabajar con GitHub en proyectos académicos.
+Aprender a controlar versiones, crear commits y trabajar con GitHub en proyectos académicos y colaborativos.
 
 ## Lo que aprenderé
 
