@@ -28,3 +28,6 @@ Este cambio fue realizado para practicar Git desde la terminal.
 
 Este cambio fue realizado dentro de una rama diferente de main.
 
+## Error de práctica
+
+Este cambio será revertido.
