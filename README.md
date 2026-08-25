@@ -24,3 +24,7 @@ Este texto fue agregado directamente desde el repositorio remoto.
 
 Este cambio fue realizado para practicar Git desde la terminal.
 
+## Práctica con ramas
+
+Este cambio fue realizado dentro de una rama diferente de main.
+
