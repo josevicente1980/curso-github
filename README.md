@@ -28,3 +28,6 @@ Este cambio fue realizado para practicar Git desde la terminal.
 
 Este cambio fue realizado dentro de una rama diferente de main.
 
+## Trabajo desde otra computadora
+
+Este cambio fue realizado desde una copia clonada del repositorio.
